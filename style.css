@@ -649,4 +649,11 @@ span {
   .skills-container {
     grid-template-columns: repeat(1, 1fr);
   }
+  .projects-box {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .projects-box img {
+    min-width: 42rem;
+  }
+}
 }
